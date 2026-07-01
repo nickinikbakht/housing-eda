@@ -63,7 +63,7 @@ setwd("r-scripts")
 source("01_correlation_scatterplot_matrix.R")
 source("02_correlation_heatmap.R")
 ```
-
+<!-- 
 ## Notes on this cleanup
 
 The original R code existed as three near-duplicate files, each a
@@ -109,4 +109,4 @@ to be showing.
 
 The Python notebook's file paths were updated from a bare `'housing.csv'`
 to `'../data/housing.csv'` to match this project's folder layout
-(`notebook/` and `data/` as siblings); no other code was changed.
+(`notebook/` and `data/` as siblings); no other code was changed. -->
